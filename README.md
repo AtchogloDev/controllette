@@ -10,5 +10,5 @@ STATUS:NO-GO : one of these conditions is not met.
 Import into project directory and run "bash controllete.sh"
 on bash.
 
-# Important
+# Final remarks
 Creates if necessary a .gitignore and adds its original name and ".gitignore" to it.
