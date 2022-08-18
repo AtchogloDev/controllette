@@ -7,4 +7,4 @@ Import into project directory and run "bash controllete.sh"
 on bash.
 
 # Remarks
-Creates if necessary a .gitignore file and adds its original name and ".gitignore" to it. This implementation can be removed.
+Creates if necessary a .gitignore file and adds its original name and ".gitignore" to it to prevent the source code and .gitignore from being sent to the repository.
