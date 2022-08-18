@@ -1,4 +1,4 @@
-# controllette
+# controllette v1.0
 Scans current directory for unnecessary files and at least one ft* file in each ex* subdirectory and outputs the findings and a final result.
 
 # Documentation
