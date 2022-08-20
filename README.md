@@ -10,4 +10,6 @@ Import into project directory and run "bash controllete.sh"
 on bash.
 
 # Final remarks
-Creates if necessary a .gitignore and adds its original name and ".gitignore" to it.
+- The script creates, if necessary, a .gitignore and adds its original name and ".gitignore" to it;
+- it also searches for unnecessary files in the root directory itself;
+- Max depth is 1, in other words only the root and its ex* subdirectories are checked. Subdirectories of ex* subdirectories are ignored.
