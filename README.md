@@ -11,5 +11,5 @@ on bash.
 
 # Final remarks
 - The script creates, if necessary, a .gitignore and adds its original name and ".gitignore" to it;
-- it also searches for unnecessary files in the root directory itself;
+- It also searches for unnecessary files in the root directory;
 - Max depth is 1, in other words only the root and its ex* subdirectories are checked. Subdirectories of ex* subdirectories are ignored.
