@@ -1,3 +1,3 @@
-# controllette v2.0
+# controllette v2.0.0
 
 In progress ...
